@@ -1,2 +1,2 @@
 # Resources
-学习材料
+- https://deepspeed.org.cn/getting-started/ ：DeepSeed使用，用于大模型加速训练
